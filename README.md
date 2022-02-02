@@ -1,7 +1,6 @@
 # threejs-sandbox
 
-Build on top of the
-# Three.js Starter
+Built on top of the Three.js Starter. 
 Courtesy of Bruno Simon of https://threejs-journey.xyz/
 
 ## Setup
